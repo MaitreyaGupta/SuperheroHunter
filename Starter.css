@@ -1,0 +1,31 @@
+.BodyWala{
+    background-color:purple;
+    box-shadow:inherit;
+    margin:auto;
+    border:yellow ,0cap,15cap,14cap;
+    border-radius:12cap;
+    justify-content:center; 
+}
+.Tables{
+    background-color:aliceblue;
+    box-shadow:inherit;
+    border:beauge ,12cap,14cap,12cap; 
+    border-radius:13cap; 
+    display:flex; 
+    justify-content:center;
+    position: relative;
+    background-position-y: 10%;
+    background-position-x: 50%;
+}
+.SearchedHero{
+    background-color: aquamarine;
+    box-shadow:inherit;
+    border:vanilla, 12cap,14cap,12cap;
+    border-radius: 14cap;
+    display: flex;
+    justify-content:center;
+    position:relative;
+    background-position-y: 5%;
+    background-position-x: 25%;
+
+}
